@@ -36,7 +36,7 @@ Docker: é um conjunto de produtos de plataforma como serviço que usam virtuali
 
 Ansible: é uma ferramenta de TI de código aberto para gerenciar, automatizar, configurar servidores e, implantar aplicativos, a partir de uma localização central. Ele inclui sua própria linguagem declarativa para descrever a configuração do sistema.
 
-## **Links Oficiais da Canonical, Ubuntu, Mint, VirtualBOX, Vagrant e Ansbile:**
+## **Links Oficiais da Canonical, Ubuntu, Mint, VirtualBOX, Vagrant e Ansible:**
 🔴 Canonical: https://canonical.com/<br>
 🔴 Linux Ubuntu: https://ubuntu.com/<br>
 🔴 Linux Mint: https://www.linuxmint.com/<br>
